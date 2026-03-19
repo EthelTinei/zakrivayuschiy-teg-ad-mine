@@ -1,1 +1,1 @@
-https://github.com/adliss1997/zakrivayuschiy-teg-ad.git
+https://github.com/EthelTinei/zakrivayuschiy-teg-ad-mine.git
